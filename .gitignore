@@ -1,0 +1,14 @@
+# PyCharm
+.idea/
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+env/
+# Django
+db.sqlite3
+media/
+staticfiles/
+# OS
+.DS_Store
